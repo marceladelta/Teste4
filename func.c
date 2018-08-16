@@ -1,8 +1,9 @@
 #include<stdio.h>
   
   int main(){
-    int soma(int a, int b){
-     return a + b;
+    int multbd
+(int a, int b){
+     return a * b;
   
   }
 
